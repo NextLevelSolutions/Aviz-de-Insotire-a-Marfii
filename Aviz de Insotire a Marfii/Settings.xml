@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Settings>
+  <Firma>
+    <Nume>II CHITAC ANDA</Nume>
+    <RC>F07/26/2006</RC>
+    <CF>18295834</CF>
+    <Capital>0</Capital>
+    <Sediu>Vatra - Hudesti</Sediu>
+    <Judet>Botosani</Judet>
+    <Cont />
+    <Banca />
+  </Firma>
+  <Client>
+    <Nume>II CHITAC ANDA</Nume>
+    <RC>F07/26/2006</RC>
+    <CF>18295834</CF>
+    <Sediu>Vatra - Hudesti</Sediu>
+    <Judet>Botosani</Judet>
+    <Cont />
+    <Banca />
+  </Client>
+  <Delegat>
+    <Nume />
+    <BICI />
+    <Eliberat />
+    <Transport />
+  </Delegat>
+  <Settings>
+    <PNumar>True</PNumar>
+    <PDataEiberare>True</PDataEiberare>
+    <PDataExpeditie>True</PDataExpeditie>
+  </Settings>
+</Settings>
